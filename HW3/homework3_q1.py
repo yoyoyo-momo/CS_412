@@ -17,4 +17,4 @@ def my_Bayes_candy(pi_list, p_list, c_list):
 
     return posterior_probabilities
 
-#test line
+#test comment

@@ -16,3 +16,5 @@ def my_Bayes_candy(pi_list, p_list, c_list):
             posterior_probabilities[i][j] = past_p[j] / sum_p
 
     return posterior_probabilities
+
+#test line

@@ -59,3 +59,5 @@ def my_cross_val(method, X, y, splits):
     accuracies.append(score)
   
   return np.array(accuracies)
+
+# test line
